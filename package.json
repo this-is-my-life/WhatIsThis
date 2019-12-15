@@ -1,0 +1,25 @@
+{
+  "name": "whatisthis",
+  "version": "1.0.0",
+  "description": "Just a Crazy Desktop Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PMHStudio/WhatIsThis.git"
+  },
+  "keywords": [
+    "electorn"
+  ],
+  "author": "TriNet / PMH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PMHStudio/WhatIsThis/issues"
+  },
+  "homepage": "https://github.com/PMHStudio/WhatIsThis#readme",
+  "devDependencies": {
+    "electron": "^7.1.5"
+  }
+}
