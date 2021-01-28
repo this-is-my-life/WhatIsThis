@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/PMHStudio/WhatIsThis#readme",
   "devDependencies": {
-    "electron": "^7.1.5"
+    "electron": "^9.4.0"
   }
 }
